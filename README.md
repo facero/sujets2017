@@ -19,5 +19,5 @@ Producing a map of the emission from individuals lines can be difficult because 
 - most lines are dominated by continuum emission and its base level cannot be simply derived from the image
 
 We here propose to use the method of blind (or semi-blind) source separation to separate the spectral components in X-rays. 
-In particular we want to apply the recent methods (LGMCA ; Local-Generalized Morphological Component Analysis) developped by J. Bobin et al. that have been succesfuly applied to Planck to separated the CMB map from the foregrounds emissions (see [here](http://www.cosmostat.org/research/cmb/planck_wpr2/) for more details).
+In particular we want to apply the recent methods (LGMCA ; Local-Generalized Morphological Component Analysis) developped by the [CosmoStat]{http://www.cosmostat.org/} group at CEA that have been succesfuly applied to Planck to separated the CMB map from the foregrounds emissions (see [here](http://www.cosmostat.org/research/cmb/planck_wpr2/) for more details).
 
